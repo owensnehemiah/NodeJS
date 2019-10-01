@@ -1,0 +1,14 @@
+{
+  "name": "node-notes",
+  "version": "1.0.0",
+  "description": "learning nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Neo Owens",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}

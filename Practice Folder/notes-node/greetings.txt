@@ -1,0 +1,7 @@
+Hello nowensHello nowensHello nowensHello nowens! You are 24.Hello nowens! You are undefined. () => {
+    return 'Total of a + b = ' + a + b;
+}.Hello nowens! You are undefined. () => {
+    return 'Total of a + b = ' + (a + b);
+}.Hello nowens! You are undefined. (a, b) => {
+    return 'Total of a + b = ' + a + b;
+}.Hello nowens! You are undefined. Total of a + b = 104.
